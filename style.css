@@ -60,7 +60,16 @@ footer .box3{
     text-align: center;
 }
 
+
 /* footer end */
+.son{
+    margin: 15px;
+    text-align: center;
+
+}
+.son p{
+    font-size: 12px;
+}
 #search{
     width: 300px;
 }
